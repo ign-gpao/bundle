@@ -10,3 +10,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/ign-gpao/client.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/ign-gpao/docker.git
