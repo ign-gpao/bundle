@@ -13,3 +13,6 @@
 [submodule "docker"]
 	path = docker
 	url = https://github.com/ign-gpao/docker.git
+[submodule "builder-python"]
+	path = builder-python
+	url = https://github.com/ign-gpao/builder-python.git
