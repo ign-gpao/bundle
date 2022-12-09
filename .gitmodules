@@ -1,3 +1,6 @@
 [submodule "database"]
 	path = database
 	url = https://github.com/ign-gpao/database.git
+[submodule "api"]
+	path = api
+	url = https://github.com/ign-gpao/api.git
