@@ -7,3 +7,6 @@
 [submodule "monitor"]
 	path = monitor
 	url = https://github.com/ign-gpao/monitor.git
+[submodule "client"]
+	path = client
+	url = https://github.com/ign-gpao/client.git
