@@ -53,7 +53,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git pull
         git add CHANGELOG.md
-        git commit -m "[bot] Update changelog and version"
+        git commit -m "[bot] Update changelog and version ${{steps.tagging.outputs.new_tag}}"
         git push
         git tag -d ${{steps.tagging.outputs.new_tag}}
         git push origin :${{steps.tagging.outputs.new_tag}}
