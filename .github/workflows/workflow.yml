@@ -62,7 +62,7 @@ jobs:
     - name: "Update repo"
       run: |
         sudo chmod -R 777 .git
-        git fetch --prune --unshallow
+        git fetch --prune
     - name: "✏️ Generate release changelog"
       id: generate-release-changelog
       uses: heinrichreimer/github-changelog-generator-action@v2.3
