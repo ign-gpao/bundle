@@ -61,7 +61,8 @@ jobs:
         git push origin ${{steps.tagging.outputs.new_tag}}
     - name: "Update repo"
       run: |
-        git pull
+        git fetch --prune --prune-tags
+        git fetch --tags
     - name: "✏️ Generate release changelog"
       id: generate-release-changelog
       uses: heinrichreimer/github-changelog-generator-action@v2.3
