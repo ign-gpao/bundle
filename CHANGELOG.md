@@ -1,6 +1,6 @@
 # 📑 Changelog
 
-## [3.2.0](https://github.com/ign-gpao/bundle/tree/3.2.0) (2023-01-24)
+## [3.2.0](https://github.com/ign-gpao/bundle/tree/3.2.0) (2023-01-25)
 
 [Full Changelog](https://github.com/ign-gpao/bundle/compare/3.1.0...3.2.0)
 
