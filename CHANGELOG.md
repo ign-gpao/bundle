@@ -1,5 +1,9 @@
 # 📑 Changelog
 
+## [3.6.0](https://github.com/ign-gpao/bundle/tree/3.6.0) (2023-10-27)
+
+[Full Changelog](https://github.com/ign-gpao/bundle/compare/3.5.0...3.6.0)
+
 ## [3.5.0](https://github.com/ign-gpao/bundle/tree/3.5.0) (2023-06-27)
 
 [Full Changelog](https://github.com/ign-gpao/bundle/compare/3.4.0...3.5.0)
